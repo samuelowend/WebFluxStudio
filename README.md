@@ -13,3 +13,7 @@ FluxAtlas is a solo WebFlux-inspired digital workshop that narrates the lifecycl
 - `scripts/`: Helpers to run the storyboard or to convert notes into shareable snapshots.
 
 The repository is deliberately anecdotal; each helper mimics a real entry one might add while tinkering late at night.
+
+## Insights & Summaries
+- `fluxatlas.insights` computes simple counters across recent micro-project sketches, capturing how domains, stacks, focus areas, and energy levels trend across a week of notes.
+- `scripts/storyboard.py` now appends the latest insight summary so every run surfaces both the narrative fragments and a quick tally of what the tinkerer has been tracking.
