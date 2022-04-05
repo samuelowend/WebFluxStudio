@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+.env
+__pycache__/
+fluxatlas/data/*.db
+*.log
+AGENTS.md
+.vscode/
+dist/
